@@ -33,6 +33,7 @@ struct OrderView: View {
                 }
             }
             .navigationTitle("🧾 Orders")
+            .font(.body)
         }
     }
 }
